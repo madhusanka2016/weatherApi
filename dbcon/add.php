@@ -20,8 +20,5 @@
 
 
 </body>
-<!--MADMZYRWWW06 28.06.2019 11:38:04 984,4 ms-->
-<!-- YR Weather Forecast -->
-</html>
 </html>
 
